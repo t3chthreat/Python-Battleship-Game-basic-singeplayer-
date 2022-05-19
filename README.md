@@ -109,7 +109,7 @@ data from the function.
 - Create and initialize the 9-by-9 game board using a nested list, assigning an
 empty space to each position on the board.
 
-
+;
 - Call the function to select and assign the two ships to the game board and then
 call the function to print the game board to start the game.
 
