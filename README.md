@@ -32,7 +32,7 @@ B a battleship is present, but no shot has been fired at this location
 S a submarine is present, but no shot has been fired at this location
 D a destroyer is present, but no shot has been fired at this location
 
-
+..
 REQUIREMENTS:
 
 
